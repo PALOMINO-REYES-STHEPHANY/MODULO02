@@ -1,0 +1,11 @@
+{
+  "name": "modulo03-stats-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1488.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
